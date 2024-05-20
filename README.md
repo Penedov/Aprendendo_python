@@ -1,2 +1,2 @@
 # Aprendendo_python
-Aprendendo Python, irei iniciar com aulas do w3schools 
+Aprendendo Python, buscando uma boa base da linguagem 
